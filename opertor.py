@@ -28,3 +28,5 @@ if sen>=18:
     print("you can play a game.")
 else :
     print("you can not play a game.")
+    
+print("operator")

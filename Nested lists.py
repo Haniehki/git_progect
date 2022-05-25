@@ -33,5 +33,3 @@ print(NewgeneratedNestedlis)
 
 print("_____________________________________________")
 print("hanieh")
-nam=8
-type(nam)
